@@ -15,7 +15,7 @@ namespace LeetCode
     {
         public Leetcode_1_Two_Sum()
         {
-
+            Console.WriteLine("Hello");
         }
         public int[] TwoSum(int[] nums, int target)
         {
